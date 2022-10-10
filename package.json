@@ -14,7 +14,7 @@
   "license": "",
   "peerDependencies": {
     "react-native": "^0.70.2",
-    "react-native-windows": "0.70"
+    "react-native-windows": "0.70.0"
 
   }
 }
